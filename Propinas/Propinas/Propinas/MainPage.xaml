@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Propinas"
+             x:Class="Propinas.MainPage">
+
+    <TableView Intent="Form">
+        <TableSection Title="Datos Generales">
+            <EntryCell x:Name="txtTotal"
+                       Label="Total"
+                       Placeholder="$0.0">
+                
+            </EntryCell>
+            <EntryCell x:Name="txtPropina"
+                       Label="Propina"
+                       Placeholder="%">
+                
+            </EntryCell>
+            <EntryCell x:Name="txtPersonas"
+                       Label="Número de Personas">
+                
+            </EntryCell>
+        </TableSection>
+        <TableSection Title="Calcular">
+            <ViewCell>
+                <ViewCell.View>
+                    <StackLayout>
+                        <Button x:Name="btnCaulcular"
+                                Text="Calcular"
+                                Clicked="BtnCalcular_OnClicked">
+                            
+                        </Button>
+                    </StackLayout>
+                </ViewCell.View>
+            </ViewCell>
+        </TableSection>
+        <TableSection Title="Resultado">
+            <TextCell x:Name="lbPropina"
+                      Text="Propina"
+                      Detail="$0.0">
+                
+            </TextCell>
+            <TextCell x:Name="lbTotal"
+                      Text="Total"
+                      Detail="$0.0"/>
+            <TextCell x:Name="lblPropinaPorPersona"
+                      Text="Propina por persona"
+                      Detail="$0.0"/>
+            <TextCell x:Name="lblTotalPorPersona"
+                      Text="Total por persona"
+                      Detail="$0.0"/>
+        </TableSection>
+        
+        
+        
+    </TableView>
+
+</ContentPage>

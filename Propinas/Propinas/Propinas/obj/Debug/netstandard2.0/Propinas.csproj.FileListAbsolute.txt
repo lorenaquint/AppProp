@@ -1,0 +1,11 @@
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\bin\Debug\netstandard2.0\Propinas.deps.json
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\bin\Debug\netstandard2.0\Propinas.dll
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\bin\Debug\netstandard2.0\Propinas.pdb
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\obj\Debug\netstandard2.0\Propinas.csprojResolveAssemblyReference.cache
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\obj\Debug\netstandard2.0\Propinas.csproj.CoreCompileInputs.cache
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\obj\Debug\netstandard2.0\Propinas.App.xaml.g.cs
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\obj\Debug\netstandard2.0\Propinas.MainPage.xaml.g.cs
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\obj\Debug\netstandard2.0\Propinas.AssemblyInfoInputs.cache
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\obj\Debug\netstandard2.0\Propinas.AssemblyInfo.cs
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\obj\Debug\netstandard2.0\Propinas.dll
+C:\Users\lorenaquint\Google Drive\2018 SENA\Empezando\Propinas\Propinas\Propinas\obj\Debug\netstandard2.0\Propinas.pdb
